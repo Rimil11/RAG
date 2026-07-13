@@ -325,20 +325,6 @@ Ask questions about your documents.
 
 ---
 
-# 📌 Future Improvements
-
-- PDF support
-- DOCX support
-- Web interface using Streamlit
-- Source citations
-- Hybrid Search (BM25 + Vector Search)
-- Metadata filtering
-- Conversation memory
-- Docker support
-- REST API
-
----
-
 # 🐛 Troubleshooting
 
 ### Ollama model not found
@@ -391,16 +377,5 @@ Contributions, suggestions, and improvements are welcome.
 3. Commit your changes
 4. Open a Pull Request
 
----
-
-# 📄 License
-
-This project is intended for educational and learning purposes.
-
----
-
-## 👨‍💻 Author
-
-**Rimil Hans**
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.# RAG-
